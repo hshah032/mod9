@@ -1,0 +1,42 @@
+{
+  "comments": [
+    {
+      "id": "1",
+      "name": "James",
+      "email": "hacker@gmail.com",
+      "body": "Very interesting. Food for thought."
+    },
+    {
+      "name": "Charles",
+      "email": "hacker@gmail.com",
+      "body": "insightful",
+      "id": "uPJ8SWJ"
+    },
+    {
+      "name": "Markus",
+      "email": "ph@gmail.com",
+      "body": "Spot on as usual",
+      "id": "yg1qIHj"
+    },
+    {
+      "name": "Phil",
+      "email": "ph@gmail.com",
+      "body": "Thought provoking",
+      "id": "ybGXOo1"
+    },
+    {
+      "name": "Jesse",
+      "email": "jesse@gmail.com",
+      "body": "Great article, very interesting.",
+      "errors": [],
+      "id": "wdgnQuP"
+    },
+    {
+      "name": "Jesse",
+      "email": "jesse@gmail.com",
+      "body": "testing",
+      "errors": [],
+      "id": "C_6gAVT"
+    }
+  ]
+}
